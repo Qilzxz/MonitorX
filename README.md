@@ -48,8 +48,7 @@ bc - for floating-point calculations
 
 # Installation
 Clone the repository or download the script:
-
-
+ *git clone https://github.com/Qilzxz/MonitorX.git
 
 # Output Example
 When running with the -nf option, you'll see output similar to this:
