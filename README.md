@@ -12,13 +12,13 @@ MonitorX is a comprehensive tool that provides real-time monitoring of CPU, memo
 ## Prerequisites
 The script requires the following utilities to be installed on your system:
 
-top - for CPU monitoring
+```top``` - for CPU monitoring
 
-free - for memory analysis
+```free``` - for memory analysis
 
-df - for disk space monitoring
+```df``` - for disk space monitoring
 
-bc - for floating-point calculations
+```bc``` - for floating-point calculations
 
 ## Installation
 Clone the repository or download the script:
