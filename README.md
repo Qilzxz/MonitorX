@@ -22,16 +22,24 @@ bc - for floating-point calculations
 
 ## Installation
 Clone the repository or download the script:
-```git clone https://github.com/Qilzxz/MonitorX.git```
+```
+git clone https://github.com/Qilzxz/MonitorX.git
+```
 Make the script executable
-```chmod +x Monitorx.sh```
+```
+chmod +x Monitorx.sh
+```
 
 ## Usage
 The script can be run in two modes:
 1. Display results in terminal
-```./Monitorx.sh -nf```
-2. Display results to a file
-```./Monitorx.sh -f output.txt```
+```
+./Monitorx.sh -nf
+```
+3. Display results to a file
+```
+./Monitorx.sh -f output.txt
+```
 
 ## Output Example
 When running with the -nf option, you'll see output similar to this:
