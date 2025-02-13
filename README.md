@@ -22,8 +22,9 @@ bc - for floating-point calculations
 
 # Installation
 Clone the repository or download the script:
-
-![carbon](https://github.com/user-attachments/assets/cb7bffee-50cc-477e-bb48-4cf07d5f809e)
+```
+git clone https://github.com/Qilzxz/MonitorX.git
+````
 
 
 # Output Example
