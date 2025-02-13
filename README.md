@@ -46,6 +46,11 @@ df - for disk space monitoring
 
 bc - for floating-point calculations
 
+# Installation
+Clone the repository or download the script:
+
+
+
 # Output Example
 When running with the -nf option, you'll see output similar to this:
 
