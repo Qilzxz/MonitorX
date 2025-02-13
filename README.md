@@ -1,7 +1,7 @@
-      /\/\   ___  _ __ (_) |_ ___  _ _\ \/ /
-     /    \ / _ \| '_ \| | __/ _ \| '__\  /
-    / /\/\ \ (_) | | | | | || (_) | |  /  \
-    \/    \/\___/|_| |_|_|\__\___/|_| /_/\_\
+                  /\/\   ___  _ __ (_) |_ ___  _ _\ \/ /
+                 /    \ / _ \| '_ \| | __/ _ \| '__\  /
+                / /\/\ \ (_) | | | | | || (_) | |  /  \
+                \/    \/\___/|_| |_|_|\__\___/|_| /_/\_\
 
 # MonitorX
 A lightweight and user-friendly tools for monitoring system resources with customizable thresholds and reporting options.
